@@ -27,7 +27,7 @@ public class Test03 : MonoBehaviour {
 
         //    }
         //}
-
+print("123");
         //选择排序
         //int min = ints[0];
         //int index = 0;
